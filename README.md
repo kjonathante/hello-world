@@ -1,2 +1,3 @@
 # hello-world
-how to use github
+
+Making some changes before I commit.
